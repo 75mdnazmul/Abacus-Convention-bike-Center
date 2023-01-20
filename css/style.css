@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+li {
+    list-style-type: none;
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+}
+.tx-orange{
+    color: #e76f51;
+}
+/* Common Css End ---------------------------------------------------*/
+.nav-text:hover{
+    color:#f1aeb5 !important;
+}
+.bann-btn{
+    margin: 0 200px;
+}
+.bike-bg{
+    background-color:#f1aeb5;
+}
+.bike-card{
+    padding: 50px 0;
+    background-color: #87e4f9;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+.card{
+    border-radius: 10px !important;
+    width: 100% !important;
+}
+.happy-icon {
+    color:#e77c40;
+}
+.Regina{
+    color:#46b4f2;
+}
+.Frequently{
+    padding: 50px 0;
+    background-color: #f8f9fa;
+}
+.footer{
+    background-color: #0b0d17;
+}
+.foot-link a{
+    color:#fff;
+}
